@@ -1,4 +1,4 @@
-![image](https://github.com/abiramipitchaimani/RIPPLECARRYADDER/assets/163704307/4c918008-8a83-40b5-8858-18b932753a78)![image](https://github.com/abiramipitchaimani/RIPPLECARRYADDER/assets/163704307/1c55ceba-639e-42e8-9ac1-5045463bfcfd)# RIPPLECARRYADDER
+# RIPPLECARRYADDER
 
 # Aim
    To simulate and synthesis of ripplecarryadder using vivado 2023.2
